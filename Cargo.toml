@@ -1,0 +1,11 @@
+[package]
+name = "aoc"
+version = "0.1.0"
+authors = ["sharksforarms"]
+edition = "2018"
+
+[dependencies]
+
+[[bin]]
+name = "day1"
+path = "./src/day1.rs"
